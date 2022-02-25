@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vlad79222
+- 👀 I’m interested in ESP8266 projects and IOT
+- 🌱 I’m currently testing code and it goes ok, but testing code for wifi projects is not running as I would want.
+- 💞️ I’m looking for help in arduino wifi-controlled-relay project.
